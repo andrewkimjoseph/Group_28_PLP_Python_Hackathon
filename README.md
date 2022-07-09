@@ -6,4 +6,4 @@ Joint Effort by Group 28 Members at the July 2022 PLP Python Hackathon
 2. Cindy Ngugi
 3. Francline Otieno
 4. Andrew Kim
-5. ...
+5. 
